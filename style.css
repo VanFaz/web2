@@ -54,15 +54,15 @@ table {
 }
 
 thead {
-    background-color: #e0e0e0;
+    background-color: #ad09ad;
 }
 
 tbody tr:nth-child(odd) {
-    background-color: #f9f9f9;
+    background-color: #f00ef0;
 }
 
 tbody tr:nth-child(even) {
-    background-color: #ffffff;
+    background-color: #f5b0f5;
 }
 
 td, th {
