@@ -16,13 +16,11 @@ h1 {
 }
 
 /* Стили для меню навигации */
-nav ul {
-    list-style: none;
-    padding: 0;
-    text-align: center;
-    background-color: #333;
-    margin: 0;
+
+nav ul li {
+    display: inline-block;
 }
+
 
 
 nav ul li a {
