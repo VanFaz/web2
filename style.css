@@ -34,9 +34,6 @@ nav ul li a {
     padding: 10px 15px;
 }
 
-nav ul li a:hover {
-    background-color: #555;
-}
 
 /* Основная ширина контента */
 main {
