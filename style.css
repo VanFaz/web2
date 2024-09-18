@@ -1,0 +1,73 @@
+/* Стили для шапки */
+header {
+    width: 100%;
+    text-align: center;
+    background-color: #f8f8f8;
+    padding: 20px 0;
+}
+
+#logo {
+    max-width: 150px;
+    height: auto;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+/* Стили для меню навигации */
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+/* Основная ширина контента */
+main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Стили для таблицы */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+thead {
+    background-color: #e0e0e0;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+td, th {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Стили для подвала */
+footer {
+    width: 100%;
+    text-align: center;
+    background-color: #f8f8f8;
+    padding: 10px 0;
+}
